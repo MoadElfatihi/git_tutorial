@@ -1,4 +1,4 @@
 first line
-second line in main branch
+second lines in new branch
 third
 in new branch
