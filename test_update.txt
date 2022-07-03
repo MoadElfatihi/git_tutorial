@@ -1,7 +1,4 @@
 first line
 second
-thir
 third
 in new branch
-feature branch line
-adding another line in feature branch
